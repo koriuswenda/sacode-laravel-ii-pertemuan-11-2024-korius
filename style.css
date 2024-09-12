@@ -7,3 +7,11 @@ background-size: cover;
 h1 {
     color: white;
 }
+
+button {
+    color: blue;
+}
+ 
+p {
+    color: chartreuse;
+}
